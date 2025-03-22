@@ -1,0 +1,16 @@
+{
+  "name": "readings",
+  "version": "1.0.0",
+  "description": "Stupid Static Site Server?",
+  "main": "index.js",
+  "scripts": {
+    "build": "node ./build/clean.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "showdown": "^2.1.0",
+    "yaml": "^2.7.0"
+  }
+}
