@@ -4,8 +4,7 @@
   "description": "Stupid Static Site Server?",
   "main": "index.js",
   "scripts": {
-    "build": "node ./build/clean.mjs",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "clean": "node ./build/clean.mjs"
   },
   "author": "",
   "license": "MIT",
