@@ -33,7 +33,7 @@ const SAVED_FIELDS = {
 function postAsFile(post, allPosts) {
   const filename =
     post.layout === "book"
-      ? `posts/${post.date}-${post.id}.md`
+      ? `posts/${post.date.split("-")[0]}/${post.date}-${post.id}.md`
       : `meta/${post.layout}/${post.id}.md`;
   const savedFields = [
     ...SAVED_FIELDS.default,
@@ -63,9 +63,20 @@ async function rewriteFiles() {
     postAsFile(post, allPosts)
   );
 
+  // Clean out the old content directory
+  await new Promise((resolve, reject) =>
+    fs.rm("./content", { recursive: true, force: true }, (err) => {
+      if (err) {
+        reject(err);
+      }
+      resolve();
+    })
+  );
+
+  // And replace it with new stuff
   for (const [filename, content] of postFiles) {
     if (filename) {
-      const fullPath = `./posts2/${filename}`;
+      const fullPath = `./content/${filename}`;
       fs.mkdirSync(path.dirname(fullPath), { recursive: true });
       fs.writeFileSync(fullPath, content);
     }
