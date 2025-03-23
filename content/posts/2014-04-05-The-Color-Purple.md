@@ -1,13 +1,12 @@
 ---
-title: "The Color Purple"
+layout: book
+id: The-Color-Purple
+name: The Color Purple
 author: Alice Walker
-authorSort: Walker, Alice
+authorId: Alice-Walker
 pageCount: 295
-date: 2014-04-05
 written: 1982
 stars: 4
-layout: post
-category: book
 tags: read unreviewed
 mapping: USA, North America
 gender: f

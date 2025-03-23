@@ -1,13 +1,12 @@
 ---
-title: "Assorted Foxtrot"
+layout: book
+id: Assorted-Foxtrot
+name: Assorted Foxtrot
 author: Bill Amend
-authorSort: Amend, Bill
+authorId: Bill-Amend
 pageCount: 252
-date: 2014-01-01
 written: 2000
 stars: 3
-layout: post
-category: book
 tags: read unreviewed comics
 mapping: USA, North America
 gender: m

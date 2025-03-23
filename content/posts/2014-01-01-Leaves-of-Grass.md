@@ -1,13 +1,12 @@
 ---
-title: "Leaves of Grass"
+layout: book
+id: Leaves-of-Grass
+name: Leaves of Grass
 author: Walt Whitman
-authorSort: Whitman, Walt
+authorId: Walt-Whitman
 pageCount: 624
-date: 2014-01-01
 written: 1855
 stars: 4
-layout: post
-category: book
 tags: read unreviewed poetry
 mapping: USA, North America
 gender: m

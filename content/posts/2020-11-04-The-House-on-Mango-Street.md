@@ -1,13 +1,12 @@
 ---
-title: "The House on Mango Street"
+layout: book
+id: The-House-on-Mango-Street
+name: The House on Mango Street
 author: Sandra Cisneros
-authorSort: Cisneros, Sandra
+authorId: Sandra-Cisneros
 pageCount: 110
-date: 2020-11-04
 written: 1984
 stars: 3
-layout: post
-category: book
 tags: read unreviewed
 mapping: USA, North America
 gender: f

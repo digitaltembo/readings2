@@ -1,14 +1,14 @@
 ---
-title: "In the Shadow of Young Girls in Flower"
+layout: book
+id: In-the-Shadow-of-Young-Girls-in-Flower
+name: In the Shadow of Young Girls in Flower
 author: Marcel Proust
-authorSort: Proust, Marcel
+authorId: Marcel-Proust
 pageCount: 533
-date: 2022-07-30
 written: 1919
 stars: 5
-layout: post
-category: book
 tags: read unreviewed
 mapping: France, Europe
+gender: m
 translatedFrom: French
 ---

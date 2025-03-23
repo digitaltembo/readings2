@@ -1,13 +1,13 @@
 ---
-title: "Atlas Shrugged"
+layout: book
+id: Atlas-Shrugged
+name: Atlas Shrugged
 author: Ayn Rand
-authorSort: Rand, Ayn
+authorId: Ayn-Rand
 pageCount: 1168
-date: 2020-11-04
 written: 1957
 stars: 2
-layout: post
-category: book
 tags: read unreviewed fantasy
 mapping: USA, North America
+gender: f
 ---

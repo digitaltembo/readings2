@@ -1,13 +1,12 @@
 ---
-title: "Seven Years in Tibet"
+layout: book
+id: Seven-Years-in-Tibet
+name: Seven Years in Tibet
 author: Heinrich Harrer
-authorSort: Harrer, Heinrich
+authorId: Heinrich-Harrer
 pageCount: 330
-date: 2014-08-02
 written: 1953
 stars: 5
-layout: post
-category: book
 tags: read unreviewed autobiography
 mapping: Austria, Europe
 gender: m

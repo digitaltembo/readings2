@@ -1,16 +1,17 @@
 ---
+layout: book
+id: My-Name-Is-Red
+name: My Name Is Red
 author: Orhan Pamuk
+authorId: Orhan-Pamuk
 pageCount: 417
 written: 1998
 stars: 4
-layout: post
-category: book
 tags: listened historical
 mapping: Istanbul, Turkey, Europe
-translatedFrom: Turkish
 gender: m
+translatedFrom: Turkish
 ---
-
 > You walk into the room with your pencil in your hand  
 > You see somebody naked and you say, "Who is that man?"  
 > You try so hard but you don't understand  

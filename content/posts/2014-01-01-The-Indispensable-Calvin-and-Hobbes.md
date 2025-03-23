@@ -1,13 +1,13 @@
 ---
-title: "The Indispensable Calvin and Hobbes"
+layout: book
+id: The-Indispensable-Calvin-and-Hobbes
+name: The Indispensable Calvin and Hobbes
 author: Bill Watterson
-authorSort: Watterson, Bill
+authorId: Bill-Watterson
 pageCount: 255
-date: 2014-01-01
 written: 1992
 stars: 5
-layout: post
-category: book
 tags: read unreviewed comics
 mapping: USA, North America
+gender: m
 ---

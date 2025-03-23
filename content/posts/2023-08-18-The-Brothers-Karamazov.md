@@ -1,18 +1,17 @@
 ---
-title: "The Brothers Karamazov"
+layout: book
+id: The-Brothers-Karamazov
+name: The Brothers Karamazov
 author: Fyodor Dostoevsky
-authorSort: Dostoevsky, Fyodor
+authorId: Fyodor-Dostoevsky
 pageCount: 796
-date: 2023-08-18
 written: 1880
 stars: 5
-layout: post
-category: book
 tags: read listened favorite best
 mapping: Russia, Europe
+gender: m
 translatedFrom: Russian
 ---
-
 I got into, started studying and eventually made a career out of computer programming because first I wanted to make clouds. The wispy vortices, plastic and mutable at a timescale just longer than that which is immediately perceptible, seemed the height of beauty and therefore the height of art.
 
 This is a bit of a non-sequitur, I acknowledge, but is illustrative of the perspective I hold on art and beauty, establishing background for my next claim: I think The Brother's Karamazov might be, after all of these years, my favorite novel, my favorite piece of art. The story is so compelling, so philosophically, psychologically, sociologically charged, and everyone in it, every person in it is such a storm of emotions, complex, turbulent, swirling, ablaze.

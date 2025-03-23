@@ -1,13 +1,12 @@
 ---
-title: "Black Swan Green"
+layout: book
+id: Black-Swan-Green
+name: Black Swan Green
 author: David Mitchell
-authorSort: Mitchell, David
+authorId: David-Mitchell
 pageCount: 296
-date: 2014-01-01
 written: 2006
 stars: 4
-layout: post
-category: book
 tags: read unreviewed bildungsroman
 mapping: England, UK, Europe
 gender: m

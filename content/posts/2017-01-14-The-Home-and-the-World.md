@@ -1,13 +1,12 @@
 ---
-title: "The Home and the World"
+layout: book
+id: The-Home-and-the-World
+name: The Home and the World
 author: Rabindranath Tagore
-authorSort: Tagore, Rabindranath
+authorId: Rabindranath-Tagore
 pageCount: 213
-date: 2017-01-14
 written: 1916
 stars: 4
-layout: post
-category: book
 tags: read unreviewed
 mapping: Kolkata, India, Asia
 gender: m

@@ -1,13 +1,13 @@
 ---
-title: "Much Ado About Nothing"
+layout: book
+id: Much-Ado-About-Nothing
+name: Much Ado About Nothing
 author: William Shakespeare
-authorSort: Shakespeare, William
+authorId: William-Shakespeare
 pageCount: 246
-date: 2014-01-01
 written: 1598
 stars: 4
-layout: post
-category: book
 tags: read unreviewed play humor
 mapping: England, UK, Europe
+gender: m
 ---

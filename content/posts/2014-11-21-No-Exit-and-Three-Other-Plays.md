@@ -1,13 +1,12 @@
 ---
-title: "No Exit and Three Other Plays"
+layout: book
+id: No-Exit-and-Three-Other-Plays
+name: No Exit and Three Other Plays
 author: Jean-Paul Sartre
-authorSort: Sartre, Jean-Paul
+authorId: Jean-Paul-Sartre
 pageCount: 275
-date: 2014-11-21
 written: 1947
 stars: 4
-layout: post
-category: book
 tags: read unreviewed play philosophy
 mapping: Paris, France, Europe
 gender: m

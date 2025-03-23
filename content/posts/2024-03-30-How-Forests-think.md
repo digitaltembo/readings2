@@ -1,16 +1,17 @@
 ---
-author: Eduardo Kohn
+layout: book
+id: How-Forests-think
+name: How Forests think
 subtitle: Toward an Anthropology Beyond the Human
+author: Eduardo Kohn
+authorId: Eduardo-Kohn
 pageCount: 267
 written: 2013
 stars: 3.5
-layout: post
-category: book
 tags: listened unreviewed non-fiction philosophy
-gender: m
 mapping: USA, North America
+gender: m
 ---
-
 Based on its snappy title, I was expecting this to be a study of a particular form of non-western ecological philosophy - but the first chapter claimed the book would be a provincialization of European thought! Not merely other ideas but new ways of having ideas! An ambitious goal! In the end, it was neither.
 
 My (uninformed) idea of an anthropological survey is that a researcher should (attempt to) discover and describe what life is like for a group of people with an open and unbiased mind, with the corollary that lots of bad anthropology comes about because being actually fully open and unbiased is impossible. This book is not that, because the bounds and the influences of the philosophical/ideological framework are clear to see, with clear roots in European continental philosophy. The actual work then becomes using that philosophy to talk about how anthropology _could_ work.

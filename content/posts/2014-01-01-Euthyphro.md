@@ -1,13 +1,13 @@
 ---
-title: "Euthyphro"
+layout: book
+id: Euthyphro
+name: Euthyphro
 author: Plato
-authorSort: Plato, Plato
+authorId: Plato
 pageCount: 120
-date: 2014-01-01
 written: -399
 stars: 3
-layout: post
-category: book
 tags: read unreviewed
 mapping: Greece, Europe
+gender: m
 ---

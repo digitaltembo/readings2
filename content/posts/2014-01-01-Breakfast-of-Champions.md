@@ -1,13 +1,13 @@
 ---
-title: "Breakfast of Champions"
+layout: book
+id: Breakfast-of-Champions
+name: Breakfast of Champions
 author: Kurt Vonnegut Jr.
-authorSort: Jr., Kurt Vonnegut
+authorId: Kurt-Vonnegut-Jr
 pageCount: 303
-date: 2014-01-01
 written: 1973
 stars: 5
-layout: post
-category: book
 tags: read unreviewed humor
 mapping: USA, North America
+gender: m
 ---

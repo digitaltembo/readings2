@@ -1,13 +1,13 @@
 ---
-title: "Incompleat Pogo"
+layout: book
+id: Incompleat-Pogo
+name: Incompleat Pogo
 author: Walt Kelly
-authorSort: Kelly, Walt
+authorId: Walt-Kelly
 pageCount: 191
-date: 2014-01-01
 written: 1954
 stars: 4
-layout: post
-category: book
 tags: read unreviewed comics
 mapping: USA, North America
+gender: m
 ---

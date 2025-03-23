@@ -1,13 +1,12 @@
 ---
-title: "The Catcher in the Rye"
+layout: book
+id: The-Catcher-in-the-Rye
+name: The Catcher in the Rye
 author: J.D. Salinger
-authorSort: Salinger, J.D.
+authorId: JD-Salinger
 pageCount: 234
-date: 2014-01-01
 written: 1951
 stars: 4
-layout: post
-category: book
 tags: read unreviewed bildungsroman
 mapping: USA, North America
 gender: m

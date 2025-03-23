@@ -1,13 +1,12 @@
 ---
-title: "Impollutable Pogo"
+layout: book
+id: Impollutable-Pogo
+name: Impollutable Pogo
 author: Walt Kelly
-authorSort: Kelly, Walt
-pageCount:
-date: 2014-01-01
+authorId: Walt-Kelly
 written: 1970
 stars: 4
-layout: post
-category: book
 tags: read unreviewed comics
 mapping: USA, North America
+gender: m
 ---

@@ -1,12 +1,14 @@
 ---
+layout: book
+id: The-Savage-Detectives
+name: The Savage Detectives
 author: Roberto Bolaño
+authorId: Roberto-Bolao
 pageCount: 610
 written: 1998
 stars: 4
-layout: post
-category: book
 tags: listened unreviewed
-translatedFrom: Spanish
-gender: m
 mapping: Mexico City, Mexico, Central America
+gender: m
+translatedFrom: Spanish
 ---

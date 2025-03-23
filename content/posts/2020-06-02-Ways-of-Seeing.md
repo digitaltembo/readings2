@@ -1,14 +1,13 @@
 ---
-title: "Ways of Seeing"
+layout: book
+id: Ways-of-Seeing
+name: Ways of Seeing
 author: John Berger
-authorSort: Berger, John
+authorId: John-Berger
 pageCount: 176
-date: 2020-06-02
 written: 1972
 stars: 4
-layout: post
-category: book
 tags: read unreviewed non-fiction philosophy art
-gender: m
 mapping: England, UK, Europe
+gender: m
 ---

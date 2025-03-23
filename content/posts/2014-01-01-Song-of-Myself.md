@@ -1,13 +1,13 @@
 ---
-title: "Song of Myself"
+layout: book
+id: Song-of-Myself
+name: Song of Myself
 author: Walt Whitman
-authorSort: Whitman, Walt
+authorId: Walt-Whitman
 pageCount: 80
-date: 2014-01-01
 written: 1856
 stars: 4
-layout: post
-category: book
 tags: read unreviewed poetry
 mapping: USA, North America
+gender: m
 ---

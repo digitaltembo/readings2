@@ -1,14 +1,14 @@
 ---
-title: "The Journey to the East"
+layout: book
+id: The-Journey-to-the-East
+name: The Journey to the East
 author: Hermann Hesse
-authorSort: Hesse, Hermann
+authorId: Hermann-Hesse
 pageCount: 128
-date: 2014-01-01
 written: 1932
 stars: 5
-layout: post
-category: book
 tags: read unreviewed favorite
 mapping: Germany, Europe
+gender: m
 translatedFrom: German
 ---

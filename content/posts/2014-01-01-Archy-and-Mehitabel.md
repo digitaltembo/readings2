@@ -1,13 +1,12 @@
 ---
-title: "Archy and Mehitabel"
+layout: book
+id: Archy-and-Mehitabel
+name: Archy and Mehitabel
 author: Don Marquis
-authorSort: Marquis, Don
+authorId: Don-Marquis
 pageCount: 192
-date: 2014-01-01
 written: 1927
 stars: 4
-layout: post
-category: book
 tags: read unreviewed
 mapping: USA, North America
 gender: m

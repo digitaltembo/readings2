@@ -1,12 +1,13 @@
 ---
-title: "Two Classics by Roald Dahl"
+layout: book
+id: Two-Classics-by-Roald-Dahl
+name: Two Classics by Roald Dahl
 author: Roald Dahl
-authorSort: Dahl, Roald
+authorId: Roald-Dahl
 pageCount: 334
-date: 2014-01-01
 written: 1987
 stars: 3
-layout: post
-category: book
 tags: read unreviewed
+mapping: England, UK, Europe
+gender: m
 ---

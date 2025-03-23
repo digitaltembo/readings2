@@ -1,14 +1,14 @@
 ---
-title: "Peter Camenzind"
+layout: book
+id: Peter-Camenzind
+name: Peter Camenzind
 author: Hermann Hesse
-authorSort: Hesse, Hermann
+authorId: Hermann-Hesse
 pageCount: 201
-date: 2014-01-01
 written: 1904
 stars: 4
-layout: post
-category: book
 tags: read unreviewed
 mapping: Germany, Europe
+gender: m
 translatedFrom: German
 ---

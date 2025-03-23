@@ -1,13 +1,12 @@
 ---
-title: "Of Human Bondage"
+layout: book
+id: Of-Human-Bondage
+name: Of Human Bondage
 author: W. Somerset Maugham
-authorSort: Maugham, W. Somerset
+authorId: W-Somerset-Maugham
 pageCount: 684
-date: 2019-11-02
 written: 1915
 stars: 4
-layout: post
-category: book
 tags: read unreviewed
 mapping: England, UK, Europe
 gender: m

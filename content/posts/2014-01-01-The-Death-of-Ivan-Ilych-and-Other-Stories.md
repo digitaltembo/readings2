@@ -1,14 +1,14 @@
 ---
-title: "The Death of Ivan Ilych and Other Stories"
+layout: book
+id: The-Death-of-Ivan-Ilych-and-Other-Stories
+name: The Death of Ivan Ilych and Other Stories
 author: Leo Tolstoy
-authorSort: Tolstoy, Leo
+authorId: Leo-Tolstoy
 pageCount: 304
-date: 2014-01-01
 written: 1886
 stars: 3
-layout: post
-category: book
 tags: read unreviewed short-stories
 mapping: Russia, Europe
+gender: m
 translatedFrom: Russian
 ---

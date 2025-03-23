@@ -1,13 +1,12 @@
 ---
-title: "Invisible Man"
+layout: book
+id: Invisible-Man
+name: Invisible Man
 author: Ralph Ellison
-authorSort: Ellison, Ralph
+authorId: Ralph-Ellison
 pageCount: 581
-date: 2014-01-01
 written: 1952
 stars: 5
-layout: post
-category: book
 tags: read unreviewed
 mapping: USA, North America
 gender: m

@@ -1,13 +1,12 @@
 ---
-title: "The True Story of Ah Q"
+layout: book
+id: The-True-Story-of-Ah-Q
+name: The True Story of Ah Q
 author: Lu Xun
-authorSort: Xun, Lu
+authorId: Lu-Xun
 pageCount: 160
-date: 2014-07-08
 written: 1922
 stars: 4
-layout: post
-category: book
 tags: read unreviewed
 mapping: China, Asia
 gender: m

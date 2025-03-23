@@ -1,13 +1,13 @@
 ---
-title: "The General in His Labyrinth"
+layout: book
+id: The-General-in-His-Labyrinth
+name: The General in His Labyrinth
 author: Gabriel García Márquez
-authorSort: Márquez, Gabriel García
+authorId: Gabriel-Garca-Mrquez
 pageCount: 248
-date: 2014-09-16
 written: 1989
 stars: 5
-layout: post
-category: book
 tags: read unreviewed historical
 mapping: Colombia, South America
+gender: m
 ---

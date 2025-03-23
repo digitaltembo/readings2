@@ -1,13 +1,12 @@
 ---
-title: "To Kill a Mockingbird"
+layout: book
+id: To-Kill-a-Mockingbird
+name: To Kill a Mockingbird
 author: Harper Lee
-authorSort: Lee, Harper
+authorId: Harper-Lee
 pageCount: 323
-date: 2014-01-01
 written: 1960
 stars: 4
-layout: post
-category: book
 tags: read unreviewed historical
 mapping: USA, North America
 gender: f

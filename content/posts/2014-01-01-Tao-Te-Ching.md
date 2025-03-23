@@ -1,13 +1,12 @@
 ---
-title: "Tao Te Ching"
+layout: book
+id: Tao-Te-Ching
+name: Tao Te Ching
 author: Lao Tzu
-authorSort: Tzu, Lao
+authorId: Lao-Tzu
 pageCount: 184
-date: 2014-01-01
 written: -400
 stars: 4
-layout: post
-category: book
 tags: read unreviewed religion
 mapping: China, Asia
 gender: m

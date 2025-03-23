@@ -1,13 +1,13 @@
 ---
-title: "Fierce Invalids Home from Hot Climates"
+layout: book
+id: Fierce-Invalids-Home-from-Hot-Climates
+name: Fierce Invalids Home from Hot Climates
 author: Tom Robbins
-authorSort: Robbins, Tom
+authorId: Tom-Robbins
 pageCount: 445
-date: 2014-01-01
 written: 2000
 stars: 4
-layout: post
-category: book
 tags: read unreviewed humor
 mapping: USA, North America
+gender: m
 ---

@@ -1,13 +1,12 @@
 ---
-title: "The Once and Future King"
+layout: book
+id: The-Once-and-Future-King
+name: The Once and Future King
 author: T.H. White
-authorSort: White, T.H.
+authorId: TH-White
 pageCount: 639
-date: 2014-01-01
 written: 1958
 stars: 3
-layout: post
-category: book
 tags: read unreviewed historical
 mapping: England, UK, Europe
 gender: m

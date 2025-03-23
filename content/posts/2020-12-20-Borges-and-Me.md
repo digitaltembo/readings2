@@ -1,13 +1,11 @@
 ---
-title: "Borges and Me"
+layout: book
+id: Borges-and-Me
+name: Borges and Me
 author: Jay Parini
-authorSort: Parini, Jay
-pageCount:
-date: 2020-12-20
+authorId: Jay-Parini
 written: 2020
 stars: 4
-layout: post
-category: book
 tags: read unreviewed non-fiction autobiography art
 mapping: USA, North America
 gender: m

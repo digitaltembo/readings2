@@ -1,13 +1,13 @@
 ---
-title: "The Man in the Iron Mask"
+layout: book
+id: The-Man-in-the-Iron-Mask
+name: The Man in the Iron Mask
 author: Alexandre Dumas
-authorSort: Dumas, Alexandre
+authorId: Alexandre-Dumas
 pageCount: 470
-date: 2014-01-01
 written: 1850
 stars: 4
-layout: post
-category: book
 tags: read unreviewed adventure
 mapping: France, Europe
+gender: m
 ---

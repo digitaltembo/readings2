@@ -1,13 +1,13 @@
 ---
-title: "Timequake"
+layout: book
+id: Timequake
+name: Timequake
 author: Kurt Vonnegut Jr.
-authorSort: Jr., Kurt Vonnegut
+authorId: Kurt-Vonnegut-Jr
 pageCount: 219
-date: 2014-01-01
 written: 1997
 stars: 4
-layout: post
-category: book
 tags: read unreviewed scifi humor
 mapping: USA, North America
+gender: m
 ---

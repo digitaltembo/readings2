@@ -1,13 +1,12 @@
 ---
-title: "Infinite Jest"
+layout: book
+id: Infinite-Jest
+name: Infinite Jest
 author: David Foster Wallace
-authorSort: Wallace, David Foster
+authorId: David-Foster-Wallace
 pageCount: 1088
-date: 2014-01-01
 written: 1996
 stars: 5
-layout: post
-category: book
 tags: read unreviewed scifi humor
 mapping: USA, North America
 gender: m

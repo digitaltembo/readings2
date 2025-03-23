@@ -1,13 +1,13 @@
 ---
-title: "The Lives and Times of Archy and Mehitabel"
+layout: book
+id: The-Lives-and-Times-of-Archy-and-Mehitabel
+name: The Lives and Times of Archy and Mehitabel
 author: Don Marquis
-authorSort: Marquis, Don
+authorId: Don-Marquis
 pageCount: 477
-date: 2014-01-01
 written: 1916
 stars: 4
-layout: post
-category: book
 tags: read unreviewed humor
 mapping: USA, North America
+gender: m
 ---

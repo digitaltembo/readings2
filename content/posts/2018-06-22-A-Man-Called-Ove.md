@@ -1,12 +1,12 @@
 ---
-title: "A Man Called Ove"
-date: 2018-06-22
+layout: book
+id: A-Man-Called-Ove
+name: A Man Called Ove
 author: Fredrik Backman
+authorId: Fredrik-Backman
 stars: 4
-layout: post
-category: book
 tags: read unreviewed
 mapping: Sweden, Europe
-translatedFrom: Swedish
 gender: m
+translatedFrom: Swedish
 ---

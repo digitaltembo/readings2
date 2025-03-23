@@ -1,13 +1,12 @@
 ---
-title: "Stories of Your Life and Others"
+layout: book
+id: Stories-of-Your-Life-and-Others
+name: Stories of Your Life and Others
 author: Ted Chiang
-authorSort: Chiang, Ted
+authorId: Ted-Chiang
 pageCount: 281
-date: 2020-11-04
 written: 2002
 stars: 4
-layout: post
-category: book
 tags: read unreviewed scifi short-stories
 mapping: USA, North America
 gender: m

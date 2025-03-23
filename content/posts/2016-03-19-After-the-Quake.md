@@ -1,14 +1,14 @@
 ---
-title: "After the Quake"
+layout: book
+id: After-the-Quake
+name: After the Quake
 author: Haruki Murakami
-authorSort: Murakami, Haruki
+authorId: Haruki-Murakami
 pageCount: 147
-date: 2016-03-19
 written: 2000
 stars: 4
-layout: post
-category: book
 tags: read unreviewed
 mapping: Japan, Asia
+gender: m
 translatedFrom: Japanese
 ---

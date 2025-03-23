@@ -1,13 +1,12 @@
 ---
-title: "The Dictionary of Lost Words"
+layout: book
+id: The-Dictionary-of-Lost-Words
+name: The Dictionary of Lost Words
 author: Pip Williams
-authorSort: Williams, Pip
+authorId: Pip-Williams
 pageCount: 384
-date: 2022-11-20
 written: 2020
 stars: 4
-layout: post
-category: book
 tags: read unreviewed historical language
 mapping: Australia, Oceania
 gender: f

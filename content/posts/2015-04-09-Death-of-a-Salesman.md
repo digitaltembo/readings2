@@ -1,13 +1,12 @@
 ---
-title: "Death of a Salesman"
+layout: book
+id: Death-of-a-Salesman
+name: Death of a Salesman
 author: Arthur  Miller
-authorSort: Miller, Arthur
+authorId: Arthur-Miller
 pageCount: 144
-date: 2015-04-09
 written: 1949
 stars: 4
-layout: post
-category: book
 tags: read unreviewed play
 mapping: USA, North America
 gender: m

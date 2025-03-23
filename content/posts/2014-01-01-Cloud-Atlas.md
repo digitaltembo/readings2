@@ -1,13 +1,13 @@
 ---
-title: "Cloud Atlas"
+layout: book
+id: Cloud-Atlas
+name: Cloud Atlas
 author: David Mitchell
-authorSort: Mitchell, David
+authorId: David-Mitchell
 pageCount: 509
-date: 2014-01-01
 written: 2004
 stars: 4
-layout: post
-category: book
 tags: read unreviewed scifi historical
 mapping: England, UK, Europe
+gender: m
 ---

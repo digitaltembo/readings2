@@ -1,13 +1,13 @@
 ---
-title: "The Time Machine"
+layout: book
+id: The-Time-Machine
+name: The Time Machine
 author: H.G. Wells
-authorSort: Wells, H.G.
+authorId: HG-Wells
 pageCount: 118
-date: 2014-01-01
 written: 1895
 stars: 3
-layout: post
-category: book
 tags: read unreviewed scifi novella
 mapping: England, UK, Europe
+gender: m
 ---

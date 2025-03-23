@@ -1,13 +1,13 @@
 ---
-title: "Lightning Rods"
+layout: book
+id: Lightning-Rods
+name: Lightning Rods
 author: Helen DeWitt
-authorSort: DeWitt, Helen
+authorId: Helen-DeWitt
 pageCount: 273
-date: 2022-12-31
 written: 2011
 stars: 3
-layout: post
-category: book
 tags: read unreviewed
 mapping: USA, North America
+gender: f
 ---

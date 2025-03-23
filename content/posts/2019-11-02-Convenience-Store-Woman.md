@@ -1,15 +1,14 @@
 ---
-title: "Convenience Store Woman"
+layout: book
+id: Convenience-Store-Woman
+name: Convenience Store Woman
 author: Sayaka Murata
-authorSort: Murata, Sayaka
+authorId: Sayaka-Murata
 pageCount: 163
-date: 2019-11-02
 written: 2016
 stars: 5
-layout: post
-category: book
 tags: read unreviewed favorite novella
 mapping: Japan, Asia
-translatedFrom: Japanese
 gender: f
+translatedFrom: Japanese
 ---

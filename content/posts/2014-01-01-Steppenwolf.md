@@ -1,13 +1,14 @@
 ---
-title: "Steppenwolf"
+layout: book
+id: Steppenwolf
+name: Steppenwolf
 author: Hermann Hesse
-authorSort: Hesse, Hermann
+authorId: Hermann-Hesse
 pageCount: 256
-date: 2014-01-01
 written: 1927
 stars: 5
-layout: post
-category: book
 tags: read unreviewed
+mapping: Germany, Europe
+gender: m
 translatedFrom: German
 ---

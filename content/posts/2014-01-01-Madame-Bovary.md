@@ -1,13 +1,12 @@
 ---
-title: "Madame Bovary"
+layout: book
+id: Madame-Bovary
+name: Madame Bovary
 author: Gustave Flaubert
-authorSort: Flaubert, Gustave
+authorId: Gustave-Flaubert
 pageCount: 329
-date: 2014-01-01
 written: 1856
 stars: 4
-layout: post
-category: book
 tags: read unreviewed
 mapping: France, Europe
 gender: m

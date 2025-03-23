@@ -1,13 +1,12 @@
 ---
-title: "Fear and Loathing in Las Vegas"
+layout: book
+id: Fear-and-Loathing-in-Las-Vegas
+name: Fear and Loathing in Las Vegas
 author: Hunter S. Thompson
-authorSort: Thompson, Hunter S.
+authorId: Hunter-S-Thompson
 pageCount: 204
-date: 2014-01-01
 written: 1971
 stars: 5
-layout: post
-category: book
 tags: read unreviewed humor
 mapping: USA, North America
 gender: m

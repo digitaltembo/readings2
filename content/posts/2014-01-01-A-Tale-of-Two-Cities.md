@@ -1,13 +1,13 @@
 ---
-title: "A Tale of Two Cities"
+layout: book
+id: A-Tale-of-Two-Cities
+name: A Tale of Two Cities
 author: Charles Dickens
-authorSort: Dickens, Charles
+authorId: Charles-Dickens
 pageCount: 489
-date: 2014-01-01
 written: 1859
 stars: 4
-layout: post
-category: book
 tags: read unreviewed Victorian
 mapping: England, UK, Europe
+gender: m
 ---

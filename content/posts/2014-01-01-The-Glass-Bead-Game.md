@@ -1,14 +1,14 @@
 ---
-title: "The Glass Bead Game"
+layout: book
+id: The-Glass-Bead-Game
+name: The Glass Bead Game
 author: Hermann Hesse
-authorSort: Hesse, Hermann
+authorId: Hermann-Hesse
 pageCount: 558
-date: 2014-01-01
 written: 1943
 stars: 4
-layout: post
-category: book
 tags: read unreviewed
 mapping: Germany, Europe
+gender: m
 translatedFrom: German
 ---

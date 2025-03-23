@@ -1,11 +1,13 @@
 ---
+layout: book
+id: Medium-Raw
+name: Medium Raw
 author: Anthony Bourdain
+authorId: Anthony-Bourdain
 pageCount: 304
 written: 2010
 stars: 3.5
-layout: post
-category: book
 tags: listened non-fiction memoir
-gender: m
 mapping: USA, North America
+gender: m
 ---

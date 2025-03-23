@@ -1,13 +1,13 @@
 ---
-title: "Richard III"
+layout: book
+id: Richard-III
+name: Richard III
 author: William Shakespeare
-authorSort: Shakespeare, William
+authorId: William-Shakespeare
 pageCount: 414
-date: 2014-01-01
 written: 1593
 stars: 4
-layout: post
-category: book
 tags: read unreviewed play
 mapping: England, UK, Europe
+gender: m
 ---

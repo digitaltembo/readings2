@@ -1,13 +1,11 @@
 ---
-title: "Invisible Monsters"
+layout: book
+id: Invisible-Monsters
+name: Invisible Monsters
 author: Chuck Palahniuk
-authorSort: Palahniuk, Chuck
+authorId: Chuck-Palahniuk
 pageCount: 304
-date: 2013-07-11
 written: 1999
-stars: 0
-layout: post
-category: book
 tags: read unreviewed
 mapping: USA, North America
 gender: m

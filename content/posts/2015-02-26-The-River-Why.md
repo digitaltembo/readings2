@@ -1,13 +1,12 @@
 ---
-title: "The River Why"
+layout: book
+id: The-River-Why
+name: The River Why
 author: David James Duncan
-authorSort: Duncan, David James
+authorId: David-James-Duncan
 pageCount: 293
-date: 2015-02-26
 written: 1983
 stars: 5
-layout: post
-category: book
 tags: read unreviewed favorite
 mapping: USA, North America
 gender: m

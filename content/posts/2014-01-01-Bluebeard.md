@@ -1,13 +1,13 @@
 ---
-title: "Bluebeard"
+layout: book
+id: Bluebeard
+name: Bluebeard
 author: Kurt Vonnegut Jr.
-authorSort: Jr., Kurt Vonnegut
+authorId: Kurt-Vonnegut-Jr
 pageCount: 318
-date: 2014-01-01
 written: 1987
 stars: 4
-layout: post
-category: book
 tags: read unreviewed
 mapping: USA, North America
+gender: m
 ---

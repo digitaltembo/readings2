@@ -1,13 +1,13 @@
 ---
-title: "The Real Inspector Hound"
+layout: book
+id: The-Real-Inspector-Hound
+name: The Real Inspector Hound
 author: Tom Stoppard
-authorSort: Stoppard, Tom
+authorId: Tom-Stoppard
 pageCount: 44
-date: 2015-11-28
 written: 1968
 stars: 4
-layout: post
-category: book
 tags: read unreviewed play
 mapping: England, UK, Europe
+gender: m
 ---

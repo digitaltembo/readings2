@@ -1,13 +1,13 @@
 ---
-title: "The Pickwick Papers"
+layout: book
+id: The-Pickwick-Papers
+name: The Pickwick Papers
 author: Charles Dickens
-authorSort: Dickens, Charles
+authorId: Charles-Dickens
 pageCount: 801
-date: 2014-01-01
 written: 1837
 stars: 3
-layout: post
-category: book
 tags: read unreviewed Victorian
 mapping: England, UK, Europe
+gender: m
 ---

@@ -1,13 +1,12 @@
 ---
-title: "The House of God"
+layout: book
+id: The-House-of-God
+name: The House of God
 author: Samuel Shem
-authorSort: Shem, Samuel
+authorId: Samuel-Shem
 pageCount: 397
-date: 2020-11-04
 written: 1978
 stars: 3
-layout: post
-category: book
 tags: read unreviewed semi-autobiographical non-fiction
 mapping: USA, North America
 gender: m

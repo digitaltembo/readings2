@@ -1,13 +1,13 @@
 ---
-title: "The English Understand Wool"
+layout: book
+id: The-English-Understand-Wool
+name: The English Understand Wool
 author: Helen DeWitt
-authorSort: DeWitt, Helen
+authorId: Helen-DeWitt
 pageCount: 69
-date: 2022-12-31
 written: 2022
 stars: 4
-layout: post
-category: book
 tags: read unreviewed novella
 mapping: USA, North America
+gender: f
 ---

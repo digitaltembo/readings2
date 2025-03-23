@@ -1,13 +1,12 @@
 ---
-title: "The Sympathizer"
+layout: book
+id: The-Sympathizer
+name: The Sympathizer
 author: Viet Thanh Nguyen
-authorSort: Nguyen, Viet Thanh
+authorId: Viet-Thanh-Nguyen
 pageCount: 371
-date: 2021-08-27
 written: 2015
 stars: 4
-layout: post
-category: book
 tags: read unreviewed spy
 mapping: USA, North America
 gender: m

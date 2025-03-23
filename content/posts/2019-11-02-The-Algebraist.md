@@ -1,13 +1,13 @@
 ---
-title: "The Algebraist"
+layout: book
+id: The-Algebraist
+name: The Algebraist
 author: Iain M. Banks
-authorSort: Banks, Iain M.
+authorId: Iain-M-Banks
 pageCount: 434
-date: 2019-11-02
 written: 2004
 stars: 4
-layout: post
-category: book
 tags: read unreviewed scifi
 mapping: Scotland, UK, Europe
+gender: m
 ---

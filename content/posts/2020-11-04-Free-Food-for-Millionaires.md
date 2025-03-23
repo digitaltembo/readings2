@@ -1,13 +1,13 @@
 ---
-title: "Free Food for Millionaires"
+layout: book
+id: Free-Food-for-Millionaires
+name: Free Food for Millionaires
 author: Min Jin Lee
-authorSort: Lee, Min Jin
+authorId: Min-Jin-Lee
 pageCount: 577
-date: 2020-11-04
 written: 2007
 stars: 3
-layout: post
-category: book
 tags: read unreviewed
 mapping: USA, North America
+gender: f
 ---

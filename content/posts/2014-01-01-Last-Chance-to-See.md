@@ -1,13 +1,13 @@
 ---
-title: "Last Chance to See"
+layout: book
+id: Last-Chance-to-See
+name: Last Chance to See
 author: Douglas Adams
-authorSort: Adams, Douglas
+authorId: Douglas-Adams
 pageCount: 222
-date: 2014-01-01
 written: 1990
 stars: 5
-layout: post
-category: book
 tags: read unreviewed non-fiction animals nature
 mapping: England, UK, Europe
+gender: m
 ---

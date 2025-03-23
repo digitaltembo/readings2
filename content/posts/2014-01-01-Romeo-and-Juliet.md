@@ -1,13 +1,13 @@
 ---
-title: "Romeo and Juliet"
+layout: book
+id: Romeo-and-Juliet
+name: Romeo and Juliet
 author: William Shakespeare
-authorSort: Shakespeare, William
+authorId: William-Shakespeare
 pageCount: 281
-date: 2014-01-01
 written: 1597
 stars: 4
-layout: post
-category: book
 tags: read unreviewed play
 mapping: England, UK, Europe
+gender: m
 ---

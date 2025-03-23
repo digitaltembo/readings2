@@ -1,14 +1,14 @@
 ---
-title: "The Gambler"
+layout: book
+id: The-Gambler
+name: The Gambler
 author: Fyodor Dostoevsky
-authorSort: Dostoevsky, Fyodor
+authorId: Fyodor-Dostoevsky
 pageCount: 188
-date: 2014-01-01
 written: 1866
 stars: 4
-layout: post
-category: book
 tags: read unreviewed novella
 mapping: Russia, Europe
+gender: m
 translatedFrom: Russian
 ---

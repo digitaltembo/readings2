@@ -1,14 +1,14 @@
 ---
-title: "Round the Moon"
+layout: book
+id: Round-the-Moon
+name: Round the Moon
 author: Jules Verne
-authorSort: Verne, Jules
+authorId: Jules-Verne
 pageCount: 148
-date: 2014-01-01
 written: 1865
 stars: 4
-layout: post
-category: book
 tags: read unreviewed scifi
 mapping: France, Europe
+gender: m
 translatedFrom: French
 ---

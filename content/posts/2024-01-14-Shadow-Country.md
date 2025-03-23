@@ -1,14 +1,16 @@
 ---
+layout: book
+id: Shadow-Country
+name: Shadow Country
 author: Peter Matthiessen
+authorId: Peter-Matthiessen
 pageCount: 912
 written: 2008
 stars: 4
-layout: post
-category: book
 tags: read historical
+mapping: NY, USA, North America
 gender: m
 ---
-
 The term shadow cousins refers to family members that are excommunicated, not spoken of and ignored. At least in the parlance of the book; I suppose in real life as well, although I have not heard of it elsewhere. The context is one in which family is otherwise the bindings and basis of one's entire society - clans of the Hardings or Houses or Daniels, bound together and facing the difficulties of life on the frontier. There is a bit of a moral imprecation here: shadow cousins, bad eggs thrown out of the nest, lacking society, must confront a bleaker reality and in all likelihood become that which they are labeled as. On the other hand, there is for lack of a better phrase deep badness here as well, a reason why shadow cousins are labeled as such. Edgar Bloody Watson, the central character and central shadow cousin whose life the book examines is not vindicated by his traumatic and troubled upbringing or the bad luck he encounters - he is a tough man who makes tough decisions, and at times takes the unflinchingly evil path.
 
 The title _Shadow Country_ is therefore my basis for understanding what Matthiessen is trying to do here. Matthiessen takes on the task of discussing the little-discussed Florida frontier and island country in the early Jim Crow years, a racist impoverished backwater of people just trying to get by. Earnest and honest storytelling of the humanity and the horror will, the title says, be a better way of living than ignoring and forgetting it, will make us a more full people, will expiate some of our sins. An ambitious project, and not entirely unfulfilled. _Shadow Country_ is a gripping tour de force and by its heft I suppose Matthiessen's magnum opus, a story in three parts of one man's life and by extension the life of the country.

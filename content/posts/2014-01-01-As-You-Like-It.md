@@ -1,13 +1,12 @@
 ---
-title: "As You Like It"
+layout: book
+id: As-You-Like-It
+name: As You Like It
 author: William Shakespeare
-authorSort: Shakespeare, William
+authorId: William-Shakespeare
 pageCount: 263
-date: 2014-01-01
 written: 1599
 stars: 4
-layout: post
-category: book
 tags: read unreviewed play
 mapping: England, UK, Europe
 gender: m

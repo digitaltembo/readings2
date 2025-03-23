@@ -1,13 +1,12 @@
 ---
-title: "A Clockwork Orange"
+layout: book
+id: A-Clockwork-Orange
+name: A Clockwork Orange
 author: Anthony Burgess
-authorSort: Burgess, Anthony
+authorId: Anthony-Burgess
 pageCount: 192
-date: 2014-01-01
 written: 1962
 stars: 2
-layout: post
-category: book
 tags: read unreviewed scifi dystopia novella
 mapping: England, UK, Europe
 gender: m

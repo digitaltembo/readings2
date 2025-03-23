@@ -1,13 +1,13 @@
 ---
-title: "The Witches"
+layout: book
+id: The-Witches
+name: The Witches
 author: Roald Dahl
-authorSort: Dahl, Roald
+authorId: Roald-Dahl
 pageCount: 208
-date: 2014-01-01
 written: 1983
 stars: 3
-layout: post
-category: book
 tags: read unreviewed
 mapping: England, UK, Europe
+gender: m
 ---

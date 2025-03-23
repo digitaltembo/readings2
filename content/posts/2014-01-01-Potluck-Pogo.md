@@ -1,13 +1,13 @@
 ---
-title: "Potluck Pogo"
+layout: book
+id: Potluck-Pogo
+name: Potluck Pogo
 author: Walt Kelly
-authorSort: Kelly, Walt
+authorId: Walt-Kelly
 pageCount: 179
-date: 2014-01-01
 written: 1955
 stars: 5
-layout: post
-category: book
 tags: read unreviewed
 mapping: USA, North America
+gender: m
 ---

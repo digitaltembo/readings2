@@ -1,13 +1,13 @@
 ---
-title: "The Wonderful Story of Henry Sugar and Six More"
+layout: book
+id: The-Wonderful-Story-of-Henry-Sugar-and-Six-More
+name: The Wonderful Story of Henry Sugar and Six More
 author: Roald Dahl
-authorSort: Dahl, Roald
+authorId: Roald-Dahl
 pageCount: 232
-date: 2014-01-01
 written: 1977
 stars: 3
-layout: post
-category: book
 tags: read unreviewed
 mapping: England, UK, Europe
+gender: m
 ---

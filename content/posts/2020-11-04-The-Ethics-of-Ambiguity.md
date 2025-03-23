@@ -1,13 +1,12 @@
 ---
-title: "The Ethics of Ambiguity"
+layout: book
+id: The-Ethics-of-Ambiguity
+name: The Ethics of Ambiguity
 author: Simone de Beauvoir
-authorSort: Beauvoir, Simone de
+authorId: Simone-de-Beauvoir
 pageCount: 162
-date: 2020-11-04
 written: 1947
 stars: 5
-layout: post
-category: book
 tags: read unreviewed philosophy non-fiction
 mapping: Paris, France, Europe
 gender: f

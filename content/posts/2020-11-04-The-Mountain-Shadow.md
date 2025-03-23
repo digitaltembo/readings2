@@ -1,13 +1,12 @@
 ---
-title: "The Mountain Shadow"
+layout: book
+id: The-Mountain-Shadow
+name: The Mountain Shadow
 author: Gregory David Roberts
-authorSort: Roberts, Gregory David
+authorId: Gregory-David-Roberts
 pageCount: 912
-date: 2020-11-04
 written: 2015
 stars: 4
-layout: post
-category: book
 tags: read unreviewed
 mapping: Australia, Oceania
 gender: m

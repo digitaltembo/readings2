@@ -1,13 +1,13 @@
 ---
-title: "The Man Who Mistook His Wife for a Hat and Other Clinical Tales"
+layout: book
+id: The-Man-Who-Mistook-His-Wife-for-a-Hat-and-Other-Clinical-Tales
+name: The Man Who Mistook His Wife for a Hat and Other Clinical Tales
 author: Oliver Sacks
-authorSort: Sacks, Oliver
+authorId: Oliver-Sacks
 pageCount: 243
-date: 2014-01-01
 written: 1985
 stars: 5
-layout: post
-category: book
 tags: read unreviewed non-fiction psychology
 mapping: England, UK, Europe
+gender: m
 ---

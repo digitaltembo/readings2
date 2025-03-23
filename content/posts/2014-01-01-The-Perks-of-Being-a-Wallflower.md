@@ -1,13 +1,12 @@
 ---
-title: "The Perks of Being a Wallflower"
+layout: book
+id: The-Perks-of-Being-a-Wallflower
+name: The Perks of Being a Wallflower
 author: Stephen Chbosky
-authorSort: Chbosky, Stephen
+authorId: Stephen-Chbosky
 pageCount: 213
-date: 2014-01-01
 written: 1999
 stars: 4
-layout: post
-category: book
 tags: read unreviewed bildungsroman
 mapping: USA, North America
 gender: m

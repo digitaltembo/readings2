@@ -1,13 +1,13 @@
 ---
-title: "The Tempest"
+layout: book
+id: The-Tempest
+name: The Tempest
 author: William Shakespeare
-authorSort: Shakespeare, William
+authorId: William-Shakespeare
 pageCount: 218
-date: 2022-05-22
 written: 1611
 stars: 4
-layout: post
-category: book
 tags: read unreviewed play
 mapping: England, UK, Europe
+gender: m
 ---

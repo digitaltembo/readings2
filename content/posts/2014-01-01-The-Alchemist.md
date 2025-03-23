@@ -1,13 +1,12 @@
 ---
-title: "The Alchemist"
+layout: book
+id: The-Alchemist
+name: The Alchemist
 author: Paulo Coelho
-authorSort: Coelho, Paulo
+authorId: Paulo-Coelho
 pageCount: 197
-date: 2014-01-01
 written: 1988
 stars: 5
-layout: post
-category: book
 tags: read unreviewed magical-realism
 mapping: Brazil, South America
 gender: m

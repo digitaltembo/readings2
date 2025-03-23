@@ -1,14 +1,14 @@
 ---
-title: "Siddhartha"
+layout: book
+id: Siddhartha
+name: Siddhartha
 author: Hermann Hesse
-authorSort: Hesse, Hermann
+authorId: Hermann-Hesse
 pageCount: 152
-date: 2014-01-01
 written: 1922
 stars: 5
-layout: post
-category: book
 tags: read unreviewed
 mapping: Germany, Europe
+gender: m
 translatedFrom: German
 ---

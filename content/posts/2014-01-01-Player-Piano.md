@@ -1,13 +1,13 @@
 ---
-title: "Player Piano"
+layout: book
+id: Player-Piano
+name: Player Piano
 author: Kurt Vonnegut Jr.
-authorSort: Jr., Kurt Vonnegut
+authorId: Kurt-Vonnegut-Jr
 pageCount: 341
-date: 2014-01-01
 written: 1952
 stars: 4
-layout: post
-category: book
 tags: read unreviewed humor
 mapping: USA, North America
+gender: m
 ---

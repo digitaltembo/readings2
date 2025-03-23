@@ -1,13 +1,13 @@
 ---
-title: "Equal Time for Pogo"
+layout: book
+id: Equal-Time-for-Pogo
+name: Equal Time for Pogo
 author: Walt Kelly
-authorSort: Kelly, Walt
+authorId: Walt-Kelly
 pageCount: 128
-date: 2014-01-01
 written: 1968
 stars: 4
-layout: post
-category: book
 tags: read unreviewed comics
 mapping: USA, North America
+gender: m
 ---

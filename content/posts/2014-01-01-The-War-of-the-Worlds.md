@@ -1,13 +1,13 @@
 ---
-title: "The War of the Worlds"
+layout: book
+id: The-War-of-the-Worlds
+name: The War of the Worlds
 author: H.G. Wells
-authorSort: Wells, H.G.
+authorId: HG-Wells
 pageCount: 192
-date: 2014-01-01
 written: 1897
 stars: 3
-layout: post
-category: book
 tags: read unreviewed scifi
 mapping: England, UK, Europe
+gender: m
 ---

@@ -1,13 +1,13 @@
 ---
-title: "Ghostwritten"
+layout: book
+id: Ghostwritten
+name: Ghostwritten
 author: David Mitchell
-authorSort: Mitchell, David
+authorId: David-Mitchell
 pageCount: 426
-date: 2014-07-16
 written: 1999
 stars: 4
-layout: post
-category: book
 tags: read unreviewed scifi
 mapping: England, UK, Europe
+gender: m
 ---

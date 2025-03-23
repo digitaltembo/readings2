@@ -1,13 +1,12 @@
 ---
-title: "Discourse on Method"
+layout: book
+id: Discourse-on-Method
+name: Discourse on Method
 author: René Descartes
-authorSort: Descartes, René
+authorId: Ren-Descartes
 pageCount: 58
-date: 2014-01-01
 written: 1637
 stars: 3
-layout: post
-category: book
 tags: read unreviewed philosophy
 mapping: France, Europe
 gender: m

@@ -1,13 +1,12 @@
 ---
-title: "An Abundance of Katherines"
+layout: book
+id: An-Abundance-of-Katherines
+name: An Abundance of Katherines
 author: John Green
-authorSort: Green, John
+authorId: John-Green
 pageCount: 229
-date: 2014-01-01
 written: 2006
 stars: 4
-layout: post
-category: book
 tags: read unreviewed bildungsroman
 mapping: USA, North America
 gender: m

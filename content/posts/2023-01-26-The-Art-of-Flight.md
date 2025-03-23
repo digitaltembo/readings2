@@ -1,16 +1,15 @@
 ---
-title: "The Art of Flight"
+layout: book
+id: The-Art-of-Flight
+name: The Art of Flight
 author: Sergio Pitol
-date: 2023-01-26 04:56:20
-layout: post
-category: book
-tags: read autobiography art non-fiction
+authorId: Sergio-Pitol
 stars: 5
+tags: read autobiography art non-fiction
 mapping: Xalapa, Veracruz, Mexico, Central America
 gender: m
 translatedFrom: Spanish
 ---
-
 Part autobiography, part literary criticism. I was a bit skeptical at first, and maybe to a certain extent throughout the entirety - while most of it is beautifully wrought, there is a tendency for Pitol just to simply start listing off names and places and books and works of art. Worse than that, they are lists of names of which I recognized only a small amount, and read even less! So basically both pretentious and an insult to my intelligent wordliness. (Reading the translator's note at the back, I discovered that the description of a man he saw in a bar in Barcelona as "the little black princess of the heaths" was in fact a reference to the nineteenth century novel Das Haideprinzeßchen? Which has a German wikipedia page, but no English one.) Unlike, say, Terry Pratchett, this is not an easy read.
 
 What kept me going from the start were on one hand sparks of insight, turns of phase, and most of all, just really curious choices around jumping from place to place and time to time in what is, after all, the pretty fascinating life that Pitol has lived. At one point he reports - to the hypnotist he enlisted to help him cure his nicotine dependency - that he feels "incapable of describing any action, no matter how simple, in a direct way". And so with this book, and apparently two more after it that I must soon lay my hands on, he compiles and orders a life's worth of work, action, belief and words in a totally roundabout way.

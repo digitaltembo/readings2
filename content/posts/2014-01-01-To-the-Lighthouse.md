@@ -1,12 +1,13 @@
 ---
-title: "To the Lighthouse"
+layout: book
+id: To-the-Lighthouse
+name: To the Lighthouse
 author: Virginia Woolf
-authorSort: Woolf, Virginia
+authorId: Virginia-Woolf
 pageCount: 209
-date: 2014-01-01
 written: 1927
 stars: 5
-layout: post
-category: book
 tags: read unreviewed modernist
+mapping: London, England, UK, Europe
+gender: f
 ---

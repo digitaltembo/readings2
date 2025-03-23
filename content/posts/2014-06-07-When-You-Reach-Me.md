@@ -1,13 +1,12 @@
 ---
-title: "When You Reach Me"
+layout: book
+id: When-You-Reach-Me
+name: When You Reach Me
 author: Rebecca Stead
-authorSort: Stead, Rebecca
+authorId: Rebecca-Stead
 pageCount: 199
-date: 2014-06-07
 written: 2009
 stars: 4
-layout: post
-category: book
 tags: read unreviewed scifi mystery
 mapping: USA, North America
 gender: f

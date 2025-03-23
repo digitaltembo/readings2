@@ -1,13 +1,12 @@
 ---
-title: "From the Earth to the Moon"
+layout: book
+id: From-the-Earth-to-the-Moon
+name: From the Earth to the Moon
 author: Jules Verne
-authorSort: Verne, Jules
+authorId: Jules-Verne
 pageCount: 136
-date: 2014-01-01
 written: 1865
 stars: 4
-layout: post
-category: book
 tags: read unreviewed scifi
 mapping: France, Europe
 gender: m

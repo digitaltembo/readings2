@@ -1,13 +1,13 @@
 ---
-title: "Dubliners"
+layout: book
+id: Dubliners
+name: Dubliners
 author: James Joyce
-authorSort: Joyce, James
+authorId: James-Joyce
 pageCount: 207
-date: 2014-01-01
 written: 1914
 stars: 5
-layout: post
-category: book
 tags: read unreviewed short-stories
 mapping: Ireland, Europe
+gender: m
 ---

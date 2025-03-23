@@ -1,13 +1,12 @@
 ---
-title: "The Very Best of the Best"
+layout: book
+id: The-Very-Best-of-the-Best
+name: The Very Best of the Best
 author: Gardner Dezois (ed.)
-date: 2023-03-28 14:24:32
-layout: post
-category: book
+authorId: Gardner-Dezois-ed
 stars: 3
 tags: read scifi
 ---
-
 ## The Potter of Bones
 
 Fine I guess, decent writing and fun premise, but not much more than that, and doesn't really make me feel any which way - just "hmm yeah that seems a plausible story about darwin if he was an alien woman and I guess yeah evolution is kind of an interesting discovery."

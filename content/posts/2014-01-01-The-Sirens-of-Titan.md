@@ -1,13 +1,13 @@
 ---
-title: "The Sirens of Titan"
+layout: book
+id: The-Sirens-of-Titan
+name: The Sirens of Titan
 author: Kurt Vonnegut Jr.
-authorSort: Jr., Kurt Vonnegut
+authorId: Kurt-Vonnegut-Jr
 pageCount: 224
-date: 2014-01-01
 written: 1959
 stars: 5
-layout: post
-category: book
 tags: read unreviewed scifi humor
 mapping: USA, North America
+gender: m
 ---

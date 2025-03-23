@@ -1,14 +1,14 @@
 ---
-title: "Journey to the Center of the Earth"
+layout: book
+id: Journey-to-the-Center-of-the-Earth
+name: Journey to the Center of the Earth
 author: Jules Verne
-authorSort: Verne, Jules
+authorId: Jules-Verne
 pageCount: 240
-date: 2014-01-01
 written: 1864
 stars: 4
-layout: post
-category: book
 tags: read unreviewed scifi
 mapping: France, Europe
+gender: m
 translatedFrom: French
 ---

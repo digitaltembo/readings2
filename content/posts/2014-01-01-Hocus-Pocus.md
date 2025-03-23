@@ -1,13 +1,13 @@
 ---
-title: "Hocus Pocus"
+layout: book
+id: Hocus-Pocus
+name: Hocus Pocus
 author: Kurt Vonnegut Jr.
-authorSort: Jr., Kurt Vonnegut
+authorId: Kurt-Vonnegut-Jr
 pageCount: 322
-date: 2014-01-01
 written: 1990
 stars: 4
-layout: post
-category: book
 tags: read unreviewed scifi
 mapping: USA, North America
+gender: m
 ---

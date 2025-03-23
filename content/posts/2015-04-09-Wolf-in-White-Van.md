@@ -1,13 +1,12 @@
 ---
-title: "Wolf in White Van"
+layout: book
+id: Wolf-in-White-Van
+name: Wolf in White Van
 author: John Darnielle
-authorSort: Darnielle, John
+authorId: John-Darnielle
 pageCount: 211
-date: 2015-04-09
 written: 2014
 stars: 4
-layout: post
-category: book
 tags: read unreviewed
 mapping: USA, North America
 gender: m
