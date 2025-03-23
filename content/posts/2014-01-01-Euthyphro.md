@@ -1,6 +1,5 @@
 ---
-title: "Plato:"
-subtitle: "Euthyphro"
+title: "Euthyphro"
 author: Plato
 authorSort: Plato, Plato
 pageCount: 120

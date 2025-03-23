@@ -6,7 +6,6 @@ date: 2023-07-19 13:30:15
 layout: post
 category: book
 tags: read non-fiction autobiography art
-stars: 4
 mapping: Xalapa, Veracruz, Mexico, Central America
 translatedFrom: Spanish
 ---
