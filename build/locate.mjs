@@ -579,7 +579,10 @@ export async function locate(location) {
   }
   const alreadyFound = initalLocs.find(({ id }) => id === location);
   if (alreadyFound) {
-    return { latitude: alreadyFound, longitude: alreadyFound };
+    return {
+      latitude: alreadyFound.latitude,
+      longitude: alreadyFound.longitude,
+    };
   }
   console.log(`Locating ${location}`);
   const parts = location.split(", ");

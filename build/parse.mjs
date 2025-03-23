@@ -191,13 +191,13 @@ function createLocation(name) {
 }
 
 async function findLocation(location) {
-  if (location.latitude == null || location.latitude == null) {
-    const found = await locate(location.name);
-    if (found) {
-      location.latitude = found.latitude;
-      location.longitude = found.longitude;
-    }
+  // if (location.latitude == null || location.latitude == null) {
+  const found = await locate(location.name);
+  if (found) {
+    location.latitude = found.latitude;
+    location.longitude = found.longitude;
   }
+  // }
 }
 
 /**
