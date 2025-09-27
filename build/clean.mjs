@@ -1,8 +1,9 @@
-import { stringify } from "yaml";
 import fs from "fs";
+import path from "path";
+
+import { stringify } from "yaml";
 
 import { normalizePosts, parsePosts } from "./parse.mjs";
-import path from "path";
 /** @import { PostInfo } from "./parse.mjs" */
 
 const SAVED_FIELDS = {

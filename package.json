@@ -3,13 +3,21 @@
   "version": "1.0.0",
   "description": "Stupid Static Site Server?",
   "main": "index.js",
+
   "scripts": {
-    "clean": "node ./build/clean.mjs"
+    "clean": "node ./build/clean.mjs",
+    "build": "node ./build/build.mjs && webpack --mode production"
   },
   "author": "",
   "license": "MIT",
   "devDependencies": {
     "showdown": "^2.1.0",
+    "webpack": "^5.98.0",
+    "webpack-cli": "^6.0.1",
     "yaml": "^2.7.0"
+  },
+  "dependencies": {
+    "3d-force-graph": "^1.77.0",
+    "three": "^0.174.0"
   }
 }
