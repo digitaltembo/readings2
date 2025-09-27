@@ -70,12 +70,12 @@ async function main() {
         : layout === "location"
         ? `${name} (location)`
         : `${id}: (tag)`
-    );
-  // .onNodeHover((node) => toggleHighlight(node))
-  // .onBackgroundClick(() => {
-  //   console.log("bg");
-  //   router.goTo("/");
-  // });
+    )
+    .onNodeHover((node) => toggleHighlight(node))
+    .onBackgroundClick(() => {
+      console.log("bg");
+      router.goTo("/");
+    });
 
   window.pointr = pointr;
   let displayingStuff = false;
